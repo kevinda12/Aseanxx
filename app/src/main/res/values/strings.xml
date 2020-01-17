@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aseanx</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_history">History</string>
+    <string name="btn_member">Member</string>
+    <string name="btn_goals">Goals</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="description_zoom_touch_close">Founder</string>
+</resources>

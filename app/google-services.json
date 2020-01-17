@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "921668661958",
+    "firebase_url": "https://aseanx.firebaseio.com",
+    "project_id": "aseanx",
+    "storage_bucket": "aseanx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921668661958:android:a6a65e804b50cc9ab65dc7",
+        "android_client_info": {
+          "package_name": "com.teknokrat.mobile2019.ti17a17313055.aseanx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921668661958-fti1n56s22eslbtj5op0m1cstqlg2l3v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teknokrat.mobile2019.ti17a17313055.aseanx",
+            "certificate_hash": "f3e652cc5aadc3f15f171e32d7e4b594ded8fd37"
+          }
+        },
+        {
+          "client_id": "921668661958-n2ii0h5djujmv8151feojkl074puuo2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZX-Raf9Mb-QPgqz2xpJqw1KrMwYaDyt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921668661958-n2ii0h5djujmv8151feojkl074puuo2b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
